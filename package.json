@@ -1,0 +1,32 @@
+{
+  "name": "birthday-invite-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "pages:prepare": "node scripts/prepare-github-pages.mjs",
+    "build:pages": "npm run build && npm run pages:prepare",
+    "deploy:pages": "npm run build:pages && npx gh-pages -d dist"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.0.2",
+    "@mui/material": "^7.0.2",
+    "lucide-react": "^0.511.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.5.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "gh-pages": "^6.3.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0"
+  }
+}

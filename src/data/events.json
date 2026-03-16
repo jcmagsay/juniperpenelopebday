@@ -1,0 +1,209 @@
+[
+  {
+    "year": 2026,
+    "slug": "stranger-things-2026",
+    "password": "scoops ahoy",
+    "isCurrent": true,
+    "themeKey": "stranger-things",
+    "backgroundImage": "/images/stranger-background.png",
+    "postcardImage": "/images/stranger-postcard.png",
+    "event": {
+      "eventName": "Penelope & Juniper's Stranger Things Birthday Bash",
+      "ageTurning": 4,
+      "date": "2026-05-02T15:30:00",
+      "endTime": "2026-05-02T23:59:00",
+      "location": "The Portal to Four (aka Juni & Phe's house)",
+      "address": "",
+      "description": [
+        "Stranger things are happening… the twins are turning FOUR! 👾",
+        "The gate to Four is opening for a Stranger Things birthday bash packed with food, fun, and a little Upside Down chaos.",
+        "Prepare for an epic Filipino feast (yes—bring that Tupperware because leftovers are inevitable 🥢), gymnastics jungle gym adventures, yard games (weather permitting), and drinks for both little and big party creatures.",
+        "Come hungry, come ready to play, and most importantly—come celebrate our two fabulous Filipinas before the Demogorgons find the snacks.",
+        "No gifts necessary! These girls are already incredibly spoiled and have everything they need. Your presence is the real party power.",
+        "We can't wait to celebrate with you! ⚡"
+      ],
+      "menu": [
+        "Demodog Skewers (BBQ skewers)",
+        "Mind Flayer Wings (Tamarind wings)",
+        "Hawkins Lab Noodles (Pancit)",
+        "Dustin's Snack stash (Lumpia)",
+        "Starcourt Mall Roast (Lechon)",
+        "Upside Down dust (Garlic Rice)",
+        "Purple Portal Dessert (Coconut Ube Cake)",
+        "Fuel up @ Waffle Snack Station (Pandan waffles)"
+      ],
+      "beverages": [
+        "Cantaloupe Drink (NA)",
+        "Calamansi Refresher (NA)",
+        "Bierstadt Kegs 🍻",
+        "Scoops Ahoy Punch Bowl"
+      ],
+      "activities": [
+        "Upside Down scavenger hunt",
+        "Gymnastics & jungle gym play",
+        "Yard games",
+        "Glow dance party",
+        "Late-night karaoke when the Upside Down energy kicks in"
+      ],
+      "notes": [
+        "Siblings welcome.",
+        "Please RSVP by APRIL 10th!"
+      ],
+      "rsvp": {
+        "enabled": true,
+        "mode": "embed",
+        "embedUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdeTjn-wBr7hg1Mz_I3CMSOfD8rw0YWWAaGaNwJYu4Yva3beg/viewform?usp=dialog&embedded=true",
+        "buttonLabel": "RSVP to the Upside Down",
+        "helperText": "Fill out the form right here without leaving the invite.",
+        "contactName": "Jill & Scott",
+        "contactEmail": "",
+        "contactPhone": ""
+      }
+    }
+  },
+  {
+    "year": 2025,
+    "slug": "disney-princess",
+    "password": "moana2",
+    "isCurrent": false,
+    "themeKey": "princess",
+    "backgroundImage": "/images/princess-postcard.png",
+    "postcardImage": "/images/princess-postcard.png",
+    "event": {
+      "eventName": "Penelope & Juniper's Princess Party",
+      "ageTurning": 3,
+      "date": "2025-04-12T14:00:00",
+      "endTime": "2025-04-12T18:00:00",
+      "location": "The Royal Castle of Juni & Phe",
+      "address": "",
+      "description": [
+        "Hear ye, hear ye! Princess Penelope and Princess Juniper invite you to their magical third birthday celebration.",
+        "Join us for an afternoon of royal adventures, treats, crafts, and a little princess karaoke.",
+        "Dress like your favorite princess, hero, or magical creature!"
+      ],
+      "menu": [
+        "Royal Filipino Feast",
+        "Princess Lumpia Rolls",
+        "Castle Fried Rice",
+        "Magic Ube Desserts"
+      ],
+      "beverages": [
+        "Princess Punch",
+        "Royal Lemonade",
+        "Sparkling Water"
+      ],
+      "activities": [
+        "Princess dress-up",
+        "Arts & crafts",
+        "Yard games",
+        "Princess karaoke"
+      ],
+      "notes": [
+        "Thank you for celebrating with us!"
+      ],
+      "rsvp": {
+        "enabled": false,
+        "mode": "none",
+        "contactName": "Jill & Scott",
+        "contactEmail": "",
+        "contactPhone": ""
+      }
+    }
+  },
+  {
+    "year": 2024,
+    "slug": "lilo-and-stitch",
+    "password": "experiment626",
+    "isCurrent": false,
+    "themeKey": "lilo",
+    "backgroundImage": "/images/lilo-postcard.png",
+    "postcardImage": "/images/lilo-postcard.png",
+    "event": {
+      "eventName": "Juniper & Penelope's Lilo & Stitch Party",
+      "ageTurning": 2,
+      "date": "2024-04-27T14:00:00",
+      "endTime": "2024-04-27T18:00:00",
+      "location": "Juni & Phe's Hawaiian Hideout",
+      "address": "",
+      "description": [
+        "Ohana means family — and family means nobody gets left out of the party.",
+        "Join us for a tropical celebration as Juniper and Penelope turn TWO!",
+        "Expect island snacks, sunshine, and lots of Stitch-level chaos."
+      ],
+      "menu": [
+        "Ohana BBQ skewers",
+        "Hawaiian pancit noodles",
+        "Lumpia snack rolls",
+        "Tropical fruit platter"
+      ],
+      "beverages": [
+        "Tropical punch",
+        "Pineapple juice",
+        "Island lemonade"
+      ],
+      "activities": [
+        "Bubble play",
+        "Yard games",
+        "Island dance party",
+        "Arts & crafts"
+      ],
+      "notes": [
+        "Mahalo for celebrating with us!"
+      ],
+      "rsvp": {
+        "enabled": false,
+        "mode": "none",
+        "contactName": "Jill & Scott",
+        "contactEmail": "",
+        "contactPhone": ""
+      }
+    }
+  },
+  {
+    "year": 2023,
+    "slug": "moana-party",
+    "password": "boatsnack",
+    "isCurrent": false,
+    "themeKey": "moana",
+    "backgroundImage": "/images/moana-bg.png",
+    "postcardImage": "/images/moana-postcard.png",
+    "event": {
+      "eventName": "Juniper & Penelope's Moana 1st Birthday",
+      "ageTurning": 1,
+      "date": "2023-04-29T14:00:00",
+      "endTime": "2023-04-29T18:00:00",
+      "location": "Motunui Island (aka Juni & Phe's house)",
+      "address": "",
+      "description": [
+        "Set sail with us as Juniper and Penelope celebrate their FIRST birthday!",
+        "Join us for an island adventure filled with tropical treats, music, and ocean-inspired fun."
+      ],
+      "menu": [
+        "Island BBQ skewers",
+        "Tropical noodle salad",
+        "Mini lumpia snacks",
+        "Birthday cake"
+      ],
+      "beverages": [
+        "Island punch",
+        "Coconut juice",
+        "Water"
+      ],
+      "activities": [
+        "Bubble play",
+        "Island dance party",
+        "Yard games"
+      ],
+      "notes": [
+        "Thank you for celebrating our first year!"
+      ],
+      "rsvp": {
+        "enabled": false,
+        "mode": "none",
+        "contactName": "Jill & Scott",
+        "contactEmail": "",
+        "contactPhone": ""
+      }
+    }
+  }
+]
