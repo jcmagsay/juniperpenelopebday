@@ -17,6 +17,7 @@ concurrency:
 
 jobs:
   build:
+    environment: github-pages
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -30,6 +31,13 @@ jobs:
 
       - name: Install deps
         run: npm ci
+
+      - name: Print deploy env (masked)
+        env:
+          VITE_EVENT_ADDRESS: ${{ secrets.VITE_EVENT_ADDRESS }}
+          VITE_EVENT_CONTACT_EMAIL: ${{ secrets.VITE_EVENT_CONTACT_EMAIL }}
+          VITE_EVENT_CONTACT_PHONE: ${{ secrets.VITE_EVENT_CONTACT_PHONE }}
+        run: npm run deploy:env
 
       - name: Build for GitHub Pages
         env:

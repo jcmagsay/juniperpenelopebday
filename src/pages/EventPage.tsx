@@ -76,7 +76,7 @@ export default function EventPage({ currentEvent }: { currentEvent: EventConfig 
                     </Stack>
                     <Typography sx={{ py: 2.25 }} variant="subtitle1">{event.location}</Typography>
                     <Typography sx={{ pt: 1.25 }} color="text.secondary">
-                      {hasAddress ? event.address : 'Address available after RSVP.'}
+                      {hasAddress ? event.address : 'Street address shared after RSVP.'}
                     </Typography>
                     <Stack direction={{ xs: 'column' }} spacing={1.25} sx={{ mt: 2 }}>
                       {mapSearchUrl ? (
